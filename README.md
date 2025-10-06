@@ -60,6 +60,8 @@ rag_env\Scripts\activate
 3. Install dependencies:
 pip install -r requirements.txt
 
+4. Deployment Link:
+https://ragchatbot-manas.streamlit.app/
 
 4. Add your document:
 Place it in data/input.txt
